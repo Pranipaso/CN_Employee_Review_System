@@ -1,5 +1,5 @@
 import User from "../models/User.js";
-import Feedback from "../models/Feedback.js";
+import Feedback from "../models/feedbackModal.js";
 
 export const employee = async (req, res) => {
   let employeeAssignedForReview = [];
