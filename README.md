@@ -3,6 +3,8 @@
 This is an Employee Review System project of Coding Ninjas made using Nodejs, Expressjs in backend. MongoDB is used for database and for frontend it uses EJS. Any user can create their account with role either admin or employee. Both Admin and Employee is given different task.
 Admin can add, remove or update any user's data. Employee can give their feedback on other employees only if Admin has assigned the task to provide review/feedback on other employees.
 
+- The project has been hosted on: https://cn-employee-review-system-0rlp.onrender.com
+
 # Installation and Run
 
 Follow these steps:

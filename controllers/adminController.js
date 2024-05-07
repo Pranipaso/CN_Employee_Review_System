@@ -1,6 +1,6 @@
 // user's model (database)
 import User from "../models/User.js";
-import Feedback from "../models/Feedback.js";
+import Feedback from "../models/feedbackModal.js";
 import bcrypt from "bcryptjs";
 
 //  render the admin's dashboard page
